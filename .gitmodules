@@ -1,0 +1,3 @@
+[submodule "edsite"]
+	path = edsite
+	url = https://github.com/nwithan8/edsite
